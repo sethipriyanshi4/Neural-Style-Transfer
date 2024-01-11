@@ -5,5 +5,5 @@ Neural style transfer is used as an optimization technique that combines two dif
 This is achieved by fine-tuning the output image to match the style reference images and the statistics for both content and style in the content image. These statistics are extracted from the images using a convolutional network.
 
 Contributors: 
-Priyanshi Sethi 
-Rhythm Bhardwaj 
+1). Priyanshi Sethi 
+2). Rhythm Bhardwaj 
